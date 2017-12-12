@@ -1,8 +1,13 @@
 {
-  "sections": [
-    {
-      "id": "UUID_0",
+  "locales": ["en", "de"],
+  "sections": [{
+    "id": "UUID_0",
+    "sections": [{
+      "id": "UUID_1",
       "sections": []
-    }
-  ]
+    }]
+  }, {
+    "id": "UUID_2",
+    "sections": []
+  }]
 }
